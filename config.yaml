@@ -1,0 +1,8 @@
+prometheus:
+  base_url: http://10.4.1.3130316/sse
+
+kubectl:
+  base_url: http://10.4.1.31:30937/mcp
+
+opencost:
+  base_url: http://10.4.1.31:30752/mcp
